@@ -1,0 +1,29 @@
+
+h1
+{
+	text-align:center;
+}
+
+td
+{
+	width:100px;
+	height:100px;
+	
+}
+	
+.vertical
+{
+  border-left:2px solid pink;
+  border-right:2px solid pink;
+}
+.horizontal
+{
+	border-top:2px solid pink;
+	border-bottom:2px solid pink;
+}
+table
+{
+	margin:auto;
+}
+
+	
